@@ -1,3 +1,3 @@
 # convertJsonToXml
 
-Rememeber to change the path for input data file(input_data.json)
+Remember to change the path for input data file(input_data.json)
